@@ -1,0 +1,6 @@
+Client_ID,Name,Risk_Profile,Stock_Weight,Bond_Weight,Initial_Value,Age
+101,Soha Momin,Aggressive,0.80,0.20,10000,19
+102,John Doe,Balanced,0.60,0.40,50000,68
+103,Jane Smith,Conservative,0.20,0.80,100000,45
+104,Test Account,High_Risk,1.00,0.00,1000,79
+105,Robert Brown,Moderate_Conservative,0.40,0.60,25000,32
