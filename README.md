@@ -1,4 +1,4 @@
-# Risk Mismatch Detector 📉 🛡️
+# Portfolio drift monitoring system 📉 🛡️
 
 A real-time Investment Portfolio Monitoring System and Regulatory Compliance Engine. This tool tracks "Portfolio Drift," calculates advanced risk metrics (VaR/Sharpe), and uses Machine Learning to predict client churn before it happens.
 
